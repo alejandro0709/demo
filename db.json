@@ -1,5 +1,5 @@
 {    "changes":{
-    "inserted": [
+    "deleted": [
       {
         "changeId": "616CC6C2-7618-4D0B-9414-637ECE8AE88F",  "ingestionType": "M",
         "ingestionDateTime": "2021-01-04T06:31:18.185Z",  "pillId": 0,
@@ -24,7 +24,7 @@
         "deleted": [
           
         ],
-        "inserted": [
+        "deleted": [
           {
             "changeId": "047E94D3-3147-44B9-A1D3-36BEC8DD6033",  "ingestionType": "D",
             "ingestionDateTime": "2021-01-05T16:50:00.185Z",  "pillId": 343,
@@ -41,7 +41,7 @@
         "deleted": [
           
         ],
-        "inserted": [
+        "deleted": [
           {
             "changeId": "6AAFEB12-0AE6-4152-8E7F-408AC1564152",  "ingestionType": "D",
             "ingestionDateTime": "2021-01-06T16:50:00.185Z",  "pillId": 344,
