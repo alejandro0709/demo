@@ -16,12 +16,12 @@
         "tagId": 0
       }
     ],
-    "deleted": [
+    "inserted": [
       
     ],
     "updated": [
       {
-        "deleted": [
+        "inserted": [
           
         ],
         "deleted": [
@@ -38,7 +38,7 @@
         ]
       },
       {
-        "deleted": [
+        "inserted": [
           
         ],
         "deleted": [
