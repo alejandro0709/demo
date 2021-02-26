@@ -41,7 +41,7 @@
         "deleted": [
           
         ],
-        "inserted": [
+        "deleted": [
           {
             "changeId": "6AAFEB12-0AE6-4152-8E7F-408AC1564152",  "ingestionType": "D",
             "ingestionDateTime": "2020-10-01:00.185Z",  "pillId": 344,
