@@ -1,5 +1,6 @@
 {
-  "changes": [
+  "changes":{ "data" :
+  [
     {
       "ingestionEventHistoryId": "616CC6C2-7618-4D0B-9414-637ECE8AE89F",
       "utcIngestionDateTime": "2021-02-04T06:31:18.185Z",
@@ -41,4 +42,5 @@
       "tagId": 0
     }
   ]
+  }
 }
