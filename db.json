@@ -1,5 +1,5 @@
 {
-  "changes":{ "data" :
+  "changes":
   [
     {
       "ingestionEventHistoryId": "616CC6C2-7618-4D0B-9414-637ECE8AE89F",
@@ -42,5 +42,4 @@
       "tagId": 0
     }
   ]
-  }
 }
