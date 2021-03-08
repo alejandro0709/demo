@@ -13,7 +13,7 @@
       "ingestionEventHistoryId": "047E94D3-3147-44B9-A1D3-36BEC8DD6033",
       "utcIngestionDateTime": "2021-02-04T06:31:18.185Z",
       "changeFlag": "I",
-      "ingestionType": "Detected",
+      "ingestionType": "Manual",
       "pillId": 342,
       "tagId": 0
     },
